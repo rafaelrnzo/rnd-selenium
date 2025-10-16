@@ -1,13 +1,11 @@
 ````markdown
-# ☕ Selenium WebDriver Test – Kopi Kenangan
-
 ## 🚀 How to Run
 
 ### 1. Create and activate environment
 ```bash
 conda create -n envAI python=3.11 -y
 conda activate envAI
-````
+```
 
 ### 2. Install dependencies
 
@@ -75,7 +73,4 @@ artifacts/screenshots/home_pytest.png
 
 ```python
 options.add_argument("--headless=new")
-```
-
-```
 ```
